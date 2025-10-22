@@ -17,7 +17,3 @@ TODO
 ## Issues Report
 
 TODO
-
-## License
-
-GPL v3.0-or-later
